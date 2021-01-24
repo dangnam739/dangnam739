@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **dangnam739/dangnam739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Nam Kieu Dang's github stats](https://github-readme-stats.vercel.app/api?username=dangnam739&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dangnam739&layout=compact)]()
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=dangnam739&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs&include_all_commits=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dangnam739&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
+</p>
