@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=dangnam739&show_icons=true&locale=en" alt="dangnam739">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dangnam739&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dangnam739&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,css,html,matlab,scss,less">
 </p>
