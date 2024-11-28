@@ -1,7 +1,16 @@
-### Hi there 👋 
+### Hi there | こんにちは 👋
+- LinkedIn: https://www.linkedin.com/in/dangnam739/
 
 <!--
-**dangnam739/dangnam739** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=thanhhff&show_icons=true&locale=en" alt="thanhhff">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhff&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,css,java,c,matlab,scss,less">
+</p>
+-->
+
+
+<!--
+**thanhhff/thanhhff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=dangnam739&show_icons=true&locale=en" alt="dangnam739">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dangnam739&layout=compact&hide_border=true&langs_count=10&hide=jupyter%20notebook,css,html,matlab,scss,less">
-</p>
